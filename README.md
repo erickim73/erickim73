@@ -1,6 +1,6 @@
 # Eric Kim
 
-CS @ Rice University · Incoming SWE Intern @ Uber Compute Platform. Prev @ eBay Cloud Platform
+CS @ Rice University · Incoming SWE Intern @ Uber Compute Platform. Prev @ eBay Cloud Platform.
 
 Building infrastructure and backend systems that have to be fast, correct, and still running at 3am.
 
